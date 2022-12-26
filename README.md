@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td width="58%">
+<td width="90%">
    
 - 🧑‍🎓 senior at `SZU's WeBank Institute of FinTech`
    
@@ -35,8 +35,8 @@
 - 📮 feel free to `connect` with me
 
 </td>
-<td width="42%">
-<img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="280">  
+<td width="20%">
+<img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="400" height="220">  
 </td>
 </tr>
 </table>
@@ -44,8 +44,8 @@
 🏆 **my github stats:**
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="176px" src="https://github-readme-stats.vercel.app/api?username=fubostudy&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="176px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fubostudy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=fubostudy&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fubostudy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
