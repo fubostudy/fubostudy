@@ -1,7 +1,7 @@
 
-<div align="center">
+<div align="left">
    
-### Hey ，Ferry seeing you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> </div>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  Hey, Ferry seeing you here! </div>
 
 <br>
 <div align="center">
@@ -18,6 +18,7 @@
 </div>
 <br>
 
+<div align="center">
 <table>
 <tr>
 <td width="90%">
@@ -41,40 +42,47 @@
 </tr>
 </table>
 
-🏆 **my github stats:**
+</div>
+
+
+
+<div align="left">  
+
+### 🏆 My Github Stats </div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fubostudy&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
+<br>
+
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=fubostudy&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fubostudy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
-
-<div align="center"><img src="https://raw.githubusercontent.com/fubostudy/fubostudy/main/assets/github-contribution-grid-snake.svg" ></div>
-
-<table>
-<tr>
-<td valign="top"  width="58%">
-  
-  ![Ferry's github stats](https://github-readme-stats.vercel.app/api?username=fubostudy&show_icons=true&locale=en&theme=dark)
-  
-#### 🐍 [Contributions](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
-
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
-
-</td>
-<td valign="top"  width="42%">
-  
-  ![Ferry's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fubostudy&layout=compact&hide_border=true&langs_count=10&theme=dark)
-
-#### ✏️ [Recent Blog](https://ferryxie.com)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-   
-</td>
-</tr>
-</table>
-
-
