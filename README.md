@@ -49,6 +49,7 @@
 </div>
 <br>
 
+<div align="center"><img src="https://raw.githubusercontent.com/fubostudy/fubostudy/main/assets/github-contribution-grid-snake.svg" ></div>
 
 <table>
 <tr>
