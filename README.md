@@ -1,25 +1,33 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，I’m Ferry
 
-![](https://img.shields.io/badge/dynamic/json?color=2bb24c&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fchegva.com%2Ffeed%2F&logo=feedly)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fubostudy.fubostudy&left_color=gray&right_color=blue)
-
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">，Ferry seeing you here!
 
 
 <table>
 <tr>
 <td width="58%">
    
-- 👨‍💻 I’m currently a `Digital Nomad` working from anywhere
-  
-- 📝 I regularly write articles on [`Ferry's Blog`](https://ferryxie.com) 
+- 🧑‍🎓 senior at `SZU's WeBank Institute of FinTech`
    
-- 📄 Know about my experiences [`My CV`](https://ferrypage.com/curriculum-vitae/)
+- 🎓 double BS in `Finance` and `Computer Science`
   
-- 📫 Reach me by  [`Email`](mailto:i@ferryxie.com), [`WeChat`](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg), [`Linkedin`](https://www.linkedin.cn/incareer/in/ACoAACue3tMBaqbKuWt2MLStn8UvL8OLXvWWHz0)
-    
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/fubostudy?label=follow%20me&style=social)](https://github.com/fubostudy/)
-  
-- 🎣 Fun fact: reading, traveling, coding, thinking
+- 👨‍💻 `Digital Nomad` working from anywhere
+
+- 🔥 tech enthusiast & open to `collaborating` 
+
+- 🎣 Fun fact: `reading`, `traveling`, `coding`, `thinking`
+
+
+<div align="left">
+  &emsp;<a href="https://ferryxie.com/"><img src= "https://img.shields.io/badge/Ferry's%20Blog-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-ff69b5"></a>
+  <a href="https://ferrypage.com/curriculum-vitae/"><img src="https://img.shields.io/badge/CV-%E5%AD%A6%E6%9C%AF%E7%AE%80%E5%8E%86-purple"></a>
+  <a href="https://blog.csdn.net/weixin_43209177"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>
+  <a href="mailto:i@ferryxie.com"><img src= "https://img.shields.io/badge/Wechat-%E5%BE%AE%E4%BF%A1-brightgreen"></a>
+  <br>
+  &emsp;<a href="mailto:i@ferryxie.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-i%40ferryxie.com-orange"></a>
+  <a href="https://www.linkedin.cn/incareer/in/ACoAACue3tMBaqbKuWt2MLStn8UvL8OLXvWWHz0"><img src="https://img.shields.io/badge/Linkedin-%E9%A2%86%E8%8B%B1-blue"></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=fubostudy.fubostudy&left_color=gray&right_color=blue" alt="访客统计" /> 
+  <a href="https://github.com/fubostudy/"><img src="https://img.shields.io/github/followers/fubostudy?label=follow%20me&style=social"></a> 
+  </div>
 
 
 </td>
@@ -37,7 +45,7 @@
 <tr>
 <td valign="top"  width="58%">
   
-  ![Ferry's github stats](https://github-readme-stats.vercel.app/api?username=fubostudy&show_icons=true&locale=en)
+  ![Ferry's github stats](https://github-readme-stats.vercel.app/api?username=fubostudy&show_icons=true&locale=en&theme=dark)
   
 #### 🐍 [Contributions](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
 
@@ -46,7 +54,7 @@
 </td>
 <td valign="top"  width="42%">
   
-  ![Ferry's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fubostudy&layout=compact&hide_border=true&langs_count=10)
+  ![Ferry's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fubostudy&layout=compact&hide_border=true&langs_count=10&theme=dark)
 
 #### ✏️ [Recent Blog](https://ferryxie.com)
 <!-- BLOG-POST-LIST:START -->
