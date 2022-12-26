@@ -45,17 +45,9 @@
   ![Ferry's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fubostudy&layout=compact&hide_border=true&langs_count=10)
 
 #### ✏️ [Recent Blog](https://ferryxie.com)
-
-< !-- BLOG-POST-LIST:START -->
-< !-- BLOG-POST-LIST:END -->
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
    
-- [哈耶克经典语录 - 2022-12-22](https://chegva.com/5574.html)
-- [Python高级(10)—多进程、多线程同步之Lock - 2022-12-19](https://chegva.com/5614.html)
-- [恭喜梅西逆天改命，圆梦成功 - 2022-12-18](https://chegva.com/5610.html)
-- [打油诗其十四·明星 - 2022-12-16](https://chegva.com/5607.html)
-- [Python高级(9)—进程间通信之共享内存，多进程、多线程操作共享数据的不安全性 - 2022-12-15](https://chegva.com/5605.html)
-
 </td>
 </tr>
 </table>
@@ -72,8 +64,7 @@
 - 📄 Know about my experiences [https://ferrypage.com/curriculum-vitae/](https://ferrypage.com/curriculum-vitae/)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
