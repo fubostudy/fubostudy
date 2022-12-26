@@ -46,6 +46,10 @@
 
 #### ✏️ [Recent Blog](https://ferryxie.com)
 
+< !-- BLOG-POST-LIST:START -->
+< !-- BLOG-POST-LIST:END -->
+
+   
 - [哈耶克经典语录 - 2022-12-22](https://chegva.com/5574.html)
 - [Python高级(10)—多进程、多线程同步之Lock - 2022-12-19](https://chegva.com/5614.html)
 - [恭喜梅西逆天改命，圆梦成功 - 2022-12-18](https://chegva.com/5610.html)
