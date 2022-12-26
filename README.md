@@ -3,17 +3,19 @@
 ![](https://img.shields.io/badge/dynamic/json?color=2bb24c&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fchegva.com%2Ffeed%2F&logo=feedly)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fubostudy.fubostudy&left_color=gray&right_color=blue)
 
+
+
 <table>
 <tr>
 <td width="58%">
    
-- 👨‍💻 I’m currently a Digital Nomad working from anywhere
+- 👨‍💻 I’m currently a `Digital Nomad` working from anywhere
   
-- 📝 I regularly write articles on [Ferry's Blog](https://ferryxie.com) 
+- 📝 I regularly write articles on [`Ferry's Blog`](https://ferryxie.com) 
   
-- 📫 Reach me by [Email](mailto:i@ferryxie.com)
+- 📫 Reach me by  [`Email`](mailto:i@ferryxie.com), [`WeChat`](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg), [`Linkedin`](https://www.linkedin.cn/incareer/in/ACoAACue3tMBaqbKuWt2MLStn8UvL8OLXvWWHz0)
   
-- 📄 Know about my experiences [CV](https://ferrypage.com/curriculum-vitae/)
+- 📄 Know about my experiences [`Xie XiaoFeng`](https://ferrypage.com/curriculum-vitae/)
   
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/fubostudy?label=follow%20me&style=social)](https://github.com/fubostudy/)
   
@@ -53,4 +55,14 @@
 </td>
 </tr>
 </table>
+
+<br/>
+<div align="center">
+  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+    <img
+        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
+        align="center"
+    />
+  </a>
+</div>
 
