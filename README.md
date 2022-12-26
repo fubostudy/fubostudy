@@ -12,11 +12,11 @@
 - 👨‍💻 I’m currently a `Digital Nomad` working from anywhere
   
 - 📝 I regularly write articles on [`Ferry's Blog`](https://ferryxie.com) 
+   
+- 📄 Know about my experiences [`My CV`](https://ferrypage.com/curriculum-vitae/)
   
 - 📫 Reach me by  [`Email`](mailto:i@ferryxie.com), [`WeChat`](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg), [`Linkedin`](https://www.linkedin.cn/incareer/in/ACoAACue3tMBaqbKuWt2MLStn8UvL8OLXvWWHz0)
-  
-- 📄 Know about my experiences [`Xie XiaoFeng`](https://ferrypage.com/curriculum-vitae/)
-  
+    
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/fubostudy?label=follow%20me&style=social)](https://github.com/fubostudy/)
   
 - 🎣 Fun fact: reading, traveling, coding, thinking
@@ -51,6 +51,9 @@
 #### ✏️ [Recent Blog](https://ferryxie.com)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
    
 </td>
 </tr>
