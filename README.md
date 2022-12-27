@@ -41,14 +41,16 @@
 </td>
 </tr>
 </table>
-
 </div>
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://raw.githubusercontent.com/fubostudy/fubostudy/main/assets/github-contribution-grid-snake.svg" /></div>
 
 
 <div align="left">  
 
 ### 🏆 My Github Stats </div>
+
 
 <div align="center">
 
@@ -70,7 +72,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 
 </div>
-
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
